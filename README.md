@@ -2,20 +2,20 @@
 
 # kubernates administation
 
-#kubernates interesting project
-https://github.com/sottlmarek/DevSecOps
-https://kubespray.io/#/
-https://ubuntu.com/kubernetes/install - Ubuntu distribution
-https://www.rancher.com/
-https://github.com/rancher/rke2
+- [Kubespray.io](https://kubespray.io/#/)
+- [Ubuntu distribution](https://ubuntu.com/kubernetes/install)
+- [Rancher](https://www.rancher.com)
+- [RKE2](https://github.com/rancher/rke2)
+- [OpenShift Contrainer Platform](https://docs.openshift.com/container-platform/4.13/welcome/index.html)
 
-https://ondrej-sika.cz/- https://trainera.cz/
+# kubernates interesting project
 
-CloudNative CI/CD
-https://tekton.dev/
+# CloudNative CI/CD
+- [Tekton](https://tekton.dev/)
 
+# Java Application on kubernetes
+- [CloudNativeSpringInAction](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
 
-https://docs.openshift.com/container-platform/4.13/welcome/index.html
-
-Java Application on kubernetes
-https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main
+# Interesting people and project
+- https://ondrej-sika.cz/
+- https://github.com/sottlmarek/DevSecOps
