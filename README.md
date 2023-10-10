@@ -18,3 +18,8 @@
 ## Interesting people and project
 * https://ondrej-sika.cz/
 * https://github.com/sottlmarek/DevSecOps
+
+## CKAD ( Certified Kubernetes Application Developer ).
+https://github.com/dgkanatsios/CKAD-exercises
+https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/
+https://github.com/lucassha/CKAD-resources
