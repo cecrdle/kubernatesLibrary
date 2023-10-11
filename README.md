@@ -8,7 +8,10 @@
 * [OpenShift Contrainer Platform](https://docs.openshift.com/container-platform/4.13/welcome/index.html)
 
 ## kubernates interesting project
-[varianta terraformu dle gitops] https://fluxcd.io/flux/concepts/
+* [varianta terraformu dle gitops] https://fluxcd.io/flux/concepts/
+
+## Operators hub
+https://operatorhub.io/
 
 ## CloudNative CI/CD
 * [Tekton](https://tekton.dev/)
