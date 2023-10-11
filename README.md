@@ -21,6 +21,7 @@ https://operatorhub.io/
 
 ## Security
 [Mend](https://www.mend.io/)
+[trivy](https://github.com/aquasecurity/trivy)
 
 ## Interesting people and project
 * https://ondrej-sika.cz/
