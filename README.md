@@ -1,4 +1,4 @@
-# Kubernates knowledge of interesting projects, people for starting
+# Kubernates knowledge of interesting projects, peoples
 ## kubernates administation
 
 * [Kubespray.io](https://kubespray.io/#/)
