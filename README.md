@@ -20,8 +20,9 @@ https://operatorhub.io/
 * [CloudNativeSpringInAction](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
 
 ## Security
-[Mend](https://www.mend.io/)
-[trivy](https://github.com/aquasecurity/trivy)
+* [Mend](https://www.mend.io/)
+* [trivy](https://github.com/aquasecurity/trivy)
+* [Kubeseal](https://learnk8s.io/kubernetes-secrets-in-git)
 
 ## Interesting people and project
 * https://ondrej-sika.cz/
