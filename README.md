@@ -8,6 +8,7 @@
 * [OpenShift Contrainer Platform](https://docs.openshift.com/container-platform/4.13/welcome/index.html)
 
 ## kubernates interesting project
+[varianta terraformu dle gitops] https://fluxcd.io/flux/concepts/
 
 ## CloudNative CI/CD
 * [Tekton](https://tekton.dev/)
@@ -15,11 +16,14 @@
 ## Java Application on kubernetes
 * [CloudNativeSpringInAction](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
 
+## Security
+[Mend](https://www.mend.io/)
+
 ## Interesting people and project
 * https://ondrej-sika.cz/
 * https://github.com/sottlmarek/DevSecOps
 
 ## CKAD ( Certified Kubernetes Application Developer ).
-* https://github.com/dgkanatsios/CKAD-exercises
-* https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/
-* https://github.com/lucassha/CKAD-resources
+* [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
+* [CKAD experience](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
+* [CKAD resource](https://github.com/lucassha/CKAD-resources)
