@@ -20,6 +20,12 @@ https://operatorhub.io/
 
 ## CloudNative CI/CD
 * [Tekton](https://tekton.dev/)
+* https://fluxcd.io/flux/
+* https://github.com/argoproj/argo-cd
+
+## developing
+* https://mirrord.dev/
+* https://github.com/gefyrahq/gefyra
 
 ## Java Application on kubernetes
 * [CloudNativeSpringInAction](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
@@ -31,6 +37,7 @@ https://operatorhub.io/
 * [Mend](https://www.mend.io/)
 * [trivy](https://github.com/aquasecurity/trivy)
 * [Kubeseal](https://learnk8s.io/kubernetes-secrets-in-git)
+* https://sealed-secrets.netlify.app/
 
 ## Interesting people and project
 * https://ondrej-sika.cz/
@@ -38,6 +45,8 @@ https://operatorhub.io/
 * https://httpie.io/docs/cli/fedora
 * https://www.oreilly.com/videos/cloud-native-java/9780137834051/
 * https://www.youtube.com/watch?v=z_ASsv3izbU
+* https://github.com/piomin/sample-terraform-kubernetes-argocd/blob/master/sealedsecrets/argocd/applications.yaml
+  
 ## CKAD ( Certified Kubernetes Application Developer ).
 * [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
 * [CKAD experience](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
