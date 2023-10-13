@@ -12,6 +12,8 @@
 
 ## kubernates interesting project
 * [varianta terraformu dle gitops] https://fluxcd.io/flux/concepts/
+* https://github.com/backstage/backstage#getting-started
+* https://cartographer.sh/
 
 ## Operators hub
 https://operatorhub.io/
@@ -30,8 +32,14 @@ https://operatorhub.io/
 ## Interesting people and project
 * https://ondrej-sika.cz/
 * https://github.com/sottlmarek/DevSecOps
-
+* https://httpie.io/docs/cli/fedora
+* https://www.oreilly.com/videos/cloud-native-java/9780137834051/
+* https://www.youtube.com/watch?v=z_ASsv3izbU
 ## CKAD ( Certified Kubernetes Application Developer ).
 * [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
 * [CKAD experience](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
 * [CKAD resource](https://github.com/lucassha/CKAD-resources)
+
+## Performance test
+* https://www.youtube.com/watch?v=AYHeNNxXNDw
+
