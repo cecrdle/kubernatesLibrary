@@ -38,6 +38,7 @@ https://operatorhub.io/
 * [trivy](https://github.com/aquasecurity/trivy)
 * [Kubeseal](https://learnk8s.io/kubernetes-secrets-in-git)
 * https://sealed-secrets.netlify.app/
+* [Open Policy Agent](https://github.com/open-policy-agent/gatekeeper)
 
 ## Interesting people and project
 * https://ondrej-sika.cz/
