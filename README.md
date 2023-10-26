@@ -56,7 +56,7 @@ https://operatorhub.io/
 * [Everything You Need to Pass CKAD Exam in 2022](https://www.youtube.com/watch?v=iStZnGn_WDY)
 * [Office Hours | Hands-on Tips to Pass the CKAD Exam](https://www.youtube.com/watch?v=L6K_8dOFR5w)
 * [My CKAD Strategy — The Certified Kubernetes Application Developer Exam (Yann Stoneman)](https://www.youtube.com/watch?v=7UzZU8KUqyw)
-
+* [](https://www.youtube.com/watch?v=hKVz-Mwo9DM)
 ## Performance test
-* https://www.youtube.com/watch?v=AYHeNNxXNDw
+* [How to prepare for CKAD certification exam]https://www.youtube.com/watch?v=AYHeNNxXNDw
 
