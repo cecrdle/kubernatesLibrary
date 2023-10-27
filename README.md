@@ -52,6 +52,7 @@ https://operatorhub.io/
 * [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
 * [CKAD experience](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
 * [CKAD resource](https://github.com/lucassha/CKAD-resources)
+* [Online testy demo](https://www.validexamdumps.com/linux-foundation/ckad-dumps)
 ### Videa
 * [Everything You Need to Pass CKAD Exam in 2022](https://www.youtube.com/watch?v=iStZnGn_WDY)
 * [Office Hours | Hands-on Tips to Pass the CKAD Exam](https://www.youtube.com/watch?v=L6K_8dOFR5w)
