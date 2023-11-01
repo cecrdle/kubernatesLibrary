@@ -13,7 +13,8 @@
 ## kubernates interesting project
 * [varianta terraformu dle gitops] https://fluxcd.io/flux/concepts/
 * https://github.com/backstage/backstage#getting-started
-* https://cartographer.sh/
+* [Cartographer](https://cartographer.sh/)
+* [k3d](https://k3d.io/v5.6.0/#install-specific-release)
 
 ## Operators hub
 https://operatorhub.io/
