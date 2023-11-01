@@ -41,6 +41,7 @@ https://operatorhub.io/
 * [Kubeseal](https://learnk8s.io/kubernetes-secrets-in-git)
 * https://sealed-secrets.netlify.app/
 * [Open Policy Agent](https://github.com/open-policy-agent/gatekeeper)
+* [Kubeshark](https://www.kubeshark.co/)
 
 ## Interesting people and project
 * https://ondrej-sika.cz/
