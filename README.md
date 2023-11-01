@@ -30,6 +30,7 @@ https://operatorhub.io/
 
 ## Java Application on kubernetes
 * [CloudNativeSpringInAction](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
+* [BellSW - image for spring boot](https://bell-sw.com/alpaquita-containers-for-spring-boot-apps/)
 
 ## Portal for components, templates and sou on
 * [BackStage]https://backstage.io/demos
